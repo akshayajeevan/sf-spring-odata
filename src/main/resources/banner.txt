@@ -1,0 +1,9 @@
++-+ +-+ +-+ +-+ +-+ +-+ +-+ +-+
+ |W| |e| |l| |c| |o| |m| |e|
++-+ +-+ +-+ +-+ +-+ +-+ +-+ +-+
+ 
+${application.title} ${application.version}
+Powered by Spring Boot ${spring-boot.version}
+Made by AKSHAYA
++-++-++-++-++-++-++-++-++-++-++-++-++-+
+
